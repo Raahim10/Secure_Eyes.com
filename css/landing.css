@@ -1,0 +1,38 @@
+
+
+
+
+body{
+    background-color: #222e3c;
+    color: white;
+}
+
+.background-color-dark{
+    background-color: #19222c;
+}
+.nab_container{
+    background-color: transparent;
+}
+.navbar_logo-link{
+    color: deepskyblue;
+    font-size: 2.3vw;
+    font-weight: 800;
+}
+.footer_logo-link{
+    color: deepskyblue;
+    font-size: 2.3vw;
+    font-weight: 800;
+}
+.w-embed h4{
+    color: deepskyblue;
+    font-size: 1.8vw;
+    font-weight: 700
+}
+.button{
+    color: white;
+    background-color:#4c7abd;
+    border-color: #63a0fb;
+    box-shadow: 0 0 1rem #4c7abd;;
+
+
+}
